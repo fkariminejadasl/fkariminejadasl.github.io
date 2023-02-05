@@ -1,6 +1,6 @@
 ---
 title: "Fugro"
-excerpt: "Quitus (Intern)"
+excerpt: "Quintus Verburg (Intern)"
 collection: students
 ---
 

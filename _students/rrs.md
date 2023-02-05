@@ -1,6 +1,6 @@
 ---
 title: "Robot Robot System"
-excerpt: "Jeroen (internship and MSc), Robert (MSc)"
+excerpt: "Jeroen Zijlmans (internship and MSc), Robbert Bormans (MSc)"
 collection: students
 ---
 

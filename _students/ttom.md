@@ -1,6 +1,6 @@
 ---
 title: "TomTom"
-excerpt: "Xin (PhD), Weijie (PhD)"
+excerpt: "Xin Liu (PhD), Weijie Wei (PhD)"
 collection: students
 ---
 
