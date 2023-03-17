@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-z
 
 Work experience
 ======
