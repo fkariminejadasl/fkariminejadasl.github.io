@@ -33,7 +33,7 @@
 
 </div>
 
-### ML & CV Research Engineer, ML & CV Research Engineer, University of Amsterdam, Oct 2022
+### ML & CV Research Engineer, University of Amsterdam, Oct 2022
 
 My projects address diverse ecological challenges, including fish tracking from video data and bird behavior classification using GPS/IMU time series data. I also supervise BSc, MSc, and PhD students in computer science, focusing primarily on ecological applications.
 
