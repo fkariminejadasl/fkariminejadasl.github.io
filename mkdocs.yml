@@ -1,0 +1,6 @@
+site_name: "Homepage"
+nav:
+  - README.md
+  - Students: students.md
+theme:
+  name: material #readthedocs
