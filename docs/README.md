@@ -68,6 +68,10 @@ Developing algorithms for macromolecular structural determination from single pa
 Developing algorithms for Image-sequence registration of data collected from hovering helicopter, background/foreground identification, vehicle detection, vehicle tracking
 
 
+### Conference Reviewing Experience
+
+I have served as a reviewer for conferences such as CVPR, ECCV, ICCV, BMVC, and ACCV.
+
 
 
 
