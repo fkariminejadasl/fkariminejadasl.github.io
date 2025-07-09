@@ -1,4 +1,5 @@
 site_name: "Homepage"
+site_url: https://fkariminejadasl.github.io
 nav:
   - README.md
   - Students: students.md
